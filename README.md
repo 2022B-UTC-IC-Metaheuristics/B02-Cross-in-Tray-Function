@@ -14,7 +14,7 @@ La función se define como:
 
 
 donde `x = (x1, x2)` son las variables de entrada.
-##Dominio de la funcion
+## Dominio de la funcion
 La función suele evaluarse sobre el cuadrado xi ∈ [-10, 10], para todo i = 1, 2.
 
 ## Objetivo 
